@@ -1,0 +1,12 @@
+{
+    "name": "BerryBot",
+    "version": [1, 0, 0],
+    "token": "<INSIRA TOKEN AQUI>",
+    "command_prefix": "$",
+    "alert_channel": 1111111111111111,
+    "sensor_gpio": 20,
+    "alarm_gpio":21,
+    "sensor_time_interval": 300,
+    "image_buffer_size": 10,
+    "image_path": "./frames"
+}
